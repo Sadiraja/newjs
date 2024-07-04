@@ -1,0 +1,2 @@
+# newjs
+practice javascript
